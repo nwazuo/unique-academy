@@ -1,8 +1,8 @@
 {
-  "name": "ant-design-pro",
-  "version": "4.5.0",
+  "name": "unique-academy",
+  "version": "1.0",
   "private": true,
-  "description": "An out-of-box UI solution for enterprise applications",
+  "description": "An MIS project for a fictitious secondary school - Unique academy",
   "scripts": {
     "analyze": "cross-env ANALYZE=1 umi build",
     "build": "umi build",
